@@ -3,4 +3,26 @@
 }
 section{
     display: flex;
+    margin: 200px;
+}
+.half-width{
+    width: 100%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 100%;
+    width: 120%;
+}
+h4{
+    color: rgb(76, 160, 76);
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.half-width{
+    width: 100%;
 }
