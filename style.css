@@ -1,3 +1,6 @@
-.gap{
-    color: khaki;
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
 }
