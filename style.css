@@ -26,3 +26,11 @@ h4{
 .half-width{
     width: 100%;
 }
+.half-width{
+    width: 50%;
+    border-image: 200%;
+    border-image-width: 10%;
+}
+.half-width{
+    border-image-width: 50%;
+}
