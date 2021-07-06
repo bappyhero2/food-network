@@ -32,5 +32,25 @@ h4{
     border-image-width: 10%;
 }
 .half-width{
-    border-image-width: 50%;
+ border-image:200%;
+ border-image-width: 10%;
+}
+section{
+    border-image:200%;
+    border-image-width: 20%;
+}
+.orange-color{
+    color: orange;
+}
+footer{
+    background-color: black;
+    height: 400px;
+    margin-left: 8px;
+
+}
+.bappy{
+    text-align: center;
+    color: gray;
+    position: absolute;
+    left: 110px; 150px;
 }
